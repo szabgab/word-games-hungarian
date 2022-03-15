@@ -1,10 +1,23 @@
 {
     "bútor": [
+        "ablak",
+        "ajtó",
         "asztal",
+        "csillár",
+        "függöny",
+        "heverő",
+        "karosszék",
+        "pad",
+        "polc",
+        "redőny",
         "szekrény",
         "szék",
+        "sámli",
         "tükör",
-        "ágy"
+        "ágy",
+        "állólámpa",
+        "éjjeli szekrény",
+        "íróasztal"
     ],
     "elektronika": [
         "dióda",
